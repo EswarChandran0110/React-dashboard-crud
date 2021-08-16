@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-dashboard-crud/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-dashboard-crud/static/js/main.a0c02b7f.chunk.js",
+    "main.js.map": "/React-dashboard-crud/static/js/main.a0c02b7f.chunk.js.map",
+    "runtime-main.js": "/React-dashboard-crud/static/js/runtime-main.3bb57173.js",
+    "runtime-main.js.map": "/React-dashboard-crud/static/js/runtime-main.3bb57173.js.map",
+    "static/js/2.5968e7a6.chunk.js": "/React-dashboard-crud/static/js/2.5968e7a6.chunk.js",
+    "static/js/2.5968e7a6.chunk.js.map": "/React-dashboard-crud/static/js/2.5968e7a6.chunk.js.map",
+    "index.html": "/React-dashboard-crud/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-dashboard-crud/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5968e7a6.chunk.js.LICENSE.txt": "/React-dashboard-crud/static/js/2.5968e7a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bb57173.js",
+    "static/js/2.5968e7a6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a0c02b7f.chunk.js"
+  ]
+}
